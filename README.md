@@ -8,4 +8,5 @@ Revolutionizing web aesthetics with dynamic animations.
 🎬 From the elegance of fluid movements to the precision of seamless transitions, this project is a testament to the artistry of animation at its finest.
 
 #WebDesign #AnimationMagic #ImmersiveExperience ✨🎥💫
+
 #sheryjs #modernwebdev #creativity #webproject
